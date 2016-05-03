@@ -509,8 +509,7 @@
 #' 
 #' 
 #' @export tile
-"tile" <-
-function(...,
+tile <- function(...,
 
          ## Plot options
          limits = NULL,
